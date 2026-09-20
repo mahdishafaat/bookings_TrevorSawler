@@ -5,6 +5,6 @@ _Note: This repository is a personal learning space. I am building this project 
 This is the repository for my bookings and reservations project.
 
 - Built in Go version 1.26.2
-- Uses the [chi router](https://github.com/go-chi/chi/v5) for routing
-- Uses [alex edwards SCS](https://github.com/alexedwards/scs/v2) for session management
+- Uses the [chi router](https://github.com/go-chi/chi) for routing
+- Uses [alex edwards SCS](https://github.com/alexedwards/scs) for session management
 - Uses [nosurf](https://github.com/justinas/nosurf) for CSRF protection
