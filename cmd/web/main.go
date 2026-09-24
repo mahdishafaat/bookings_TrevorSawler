@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/mahdishafaat/bookings_TrevorSawler/pkg/config"
-	"github.com/mahdishafaat/bookings_TrevorSawler/pkg/handlers"
-	"github.com/mahdishafaat/bookings_TrevorSawler/pkg/render"
+	"github.com/mahdishafaat/bookings_TrevorSawler/internal/config"
+	"github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers"
+	"github.com/mahdishafaat/bookings_TrevorSawler/internal/render"
 
 	"github.com/alexedwards/scs/v2"
 )
