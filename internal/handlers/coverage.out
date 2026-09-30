@@ -1,0 +1,22 @@
+mode: set
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:25.47,29.2 1 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:32.33,34.2 1 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:37.67,42.2 3 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:45.68,56.2 5 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:58.74,64.2 4 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:65.78,67.16 2 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:67.16,70.3 2 0
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:72.2,85.19 6 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:85.19,92.3 3 0
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:93.2,95.66 2 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:99.71,101.2 1 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:103.69,105.2 1 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:107.75,109.2 1 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:110.79,114.2 3 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:121.79,128.16 3 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:128.16,130.3 1 0
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:132.2,133.14 2 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:136.70,138.2 1 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:140.81,142.9 2 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:142.9,147.3 4 1
+github.com/mahdishafaat/bookings_TrevorSawler/internal/handlers/handlers.go:148.2,155.4 4 0
