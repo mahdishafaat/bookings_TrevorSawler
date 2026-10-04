@@ -3,3 +3,5 @@
 
 # Ignore compiled executable files
 bookings.exe
+*.exe
+database.yml
